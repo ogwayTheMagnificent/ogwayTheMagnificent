@@ -1,4 +1,4 @@
-# OgWay
+# OgWay (Oogway the Magnificent)
 
 I'm Howard and I primarily use Lua on GitHub.
 
@@ -8,3 +8,8 @@ I'm Howard and I primarily use Lua on GitHub.
 
 ## You may also know me as
 HunDread, AST3RISK, heilingoffurious, and OgWay
+
+## What my name is all about
+
+My name is Oogway. It's a reference of some old turtle in a movie called 'Kung Fu Panda' back in 2008.
+His iconic wise personality made me rebrand my name into what it is today!
