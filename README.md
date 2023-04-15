@@ -1,3 +1,5 @@
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 # OgWay (Oogway the Magnificent)
 
 I'm Howard and I primarily use Lua on GitHub.
